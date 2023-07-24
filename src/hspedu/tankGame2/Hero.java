@@ -1,6 +1,6 @@
-package hspedu.tank;
+package hspedu.tankGame2;
 
-public class Hero extends Tank{
+public class Hero extends Tank {
     public Hero(int x, int y) {
         super(x, y);
     }

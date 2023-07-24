@@ -1,4 +1,4 @@
-package hspedu.string_;
+package hspedu.commonClass.arrays_.string_;
 /**
  * String类的常见方法应用实例
  * 1. equals // 区分大小写 判断内容是否相等

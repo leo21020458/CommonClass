@@ -1,4 +1,4 @@
-package hspedu.arrays_;
+package hspedu.commonClass.arrays_;
 
 import java.util.Arrays;
 import java.util.Comparator;

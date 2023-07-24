@@ -1,4 +1,4 @@
-package hspedu.tank.draw;
+package hspedu.draw;
 
 import javax.swing.*;
 import java.awt.*;

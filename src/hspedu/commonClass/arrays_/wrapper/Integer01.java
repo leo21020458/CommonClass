@@ -1,4 +1,4 @@
-package hspedu.wrapper;
+package hspedu.commonClass.arrays_.wrapper;
 
 public class Integer01 {
     public static void main(String[] args) {

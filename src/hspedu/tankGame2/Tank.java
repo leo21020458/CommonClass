@@ -1,8 +1,41 @@
-package hspedu.tank;
+package hspedu.tankGame2;
 
 public class Tank {
     private int x; // 坦克的横纵坐标
     private int y;
+
+    private int direction;
+
+    private int speed;
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public void setSpeed(int speed) {
+        this.speed = speed;
+    }
+
+    public void moveUp(){
+        y -= speed;
+    }
+    public void moveRight(){
+        x += speed;
+    }
+    public void moveDown(){
+        y += speed;
+    }
+    public void moveLeft(){
+        x -= speed;
+    }
+
+    public int getDirection() {
+        return direction;
+    }
+
+    public void setDirection(int direction) {
+        this.direction = direction;
+    }
 
     public Tank(int x, int y) {
         this.x = x;

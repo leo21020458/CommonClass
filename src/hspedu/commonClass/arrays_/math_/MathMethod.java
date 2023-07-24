@@ -1,6 +1,4 @@
-package hspedu.math_;
-
-import java.util.Random;
+package hspedu.commonClass.arrays_.math_;
 
 public class MathMethod {
     public static void main(String[] args) {

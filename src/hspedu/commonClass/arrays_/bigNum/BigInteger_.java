@@ -1,4 +1,4 @@
-package hspedu.bigNum;
+package hspedu.commonClass.arrays_.bigNum;
 
 import java.math.BigInteger;
 

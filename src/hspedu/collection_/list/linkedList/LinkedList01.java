@@ -1,4 +1,4 @@
-package hspedu.set.list.linkedList;
+package hspedu.collection_.list.linkedList;
 
 public class LinkedList01 {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class LinkedList01 {
         hsp.pre = tom;
         tom.pre = jack;
 
-        
+
         smith.next = hsp;
         smith.pre = tom;
         hsp.pre = smith;

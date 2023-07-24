@@ -1,2 +1,4 @@
-package hspedu;public class A {
+package hspedu;
+
+public class A {
 }

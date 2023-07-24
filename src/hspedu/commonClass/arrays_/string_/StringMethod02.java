@@ -1,4 +1,4 @@
-package hspedu.string_;
+package hspedu.commonClass.arrays_.string_;
 
 public class StringMethod02 {
     public static void main(String[] args) {

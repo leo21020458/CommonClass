@@ -1,4 +1,4 @@
-package hspedu.wrapper;
+package hspedu.commonClass.arrays_.wrapper;
 
 /**
  * 只要是 new，判==肯定是false 因为==是判定是否是同一个对象

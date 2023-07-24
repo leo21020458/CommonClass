@@ -1,4 +1,4 @@
-package hspedu.wrapper;
+package hspedu.commonClass.arrays_.wrapper;
 
 public class WrapperEx02 {
 

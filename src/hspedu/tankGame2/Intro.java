@@ -1,4 +1,4 @@
-package hspedu.tank;
+package hspedu.tankGame2;
 
 /**
  * 绘图坐标体系，java 坐标原点是在左上角开始的，以像素为单位，在java坐标系中，

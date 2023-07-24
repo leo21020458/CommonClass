@@ -1,4 +1,4 @@
-package hspedu.string_.stringBuffer.stringBufferEx;
+package hspedu.commonClass.arrays_.string_.stringBuffer.stringBufferEx;
 
 import java.util.Scanner;
 

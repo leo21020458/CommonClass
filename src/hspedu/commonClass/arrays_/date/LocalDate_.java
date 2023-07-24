@@ -1,4 +1,4 @@
-package hspedu.date;
+package hspedu.commonClass.arrays_.date;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

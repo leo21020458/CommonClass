@@ -1,4 +1,4 @@
-package hspedu.system;
+package hspedu.commonClass.arrays_.system;
 
 import java.util.Arrays;
 

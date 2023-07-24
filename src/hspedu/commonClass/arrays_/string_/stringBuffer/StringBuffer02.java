@@ -1,4 +1,4 @@
-package hspedu.string_.stringBuffer;
+package hspedu.commonClass.arrays_.string_.stringBuffer;
 
 public class StringBuffer02 {
     public static void main(String[] args) {
